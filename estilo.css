@@ -1,0 +1,102 @@
+.body{
+    background-color:rgb(251,235,227);
+    background-image: url(../img/fundo.jpg);
+   }
+   
+   .hr1{
+   border-color: black;
+   height: 8px;
+   background-color: black;
+   }
+   
+   .imagem{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid black;
+   }
+   
+   .primeirotitulo{
+       color: black;
+       font-style: italic;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+   }
+   
+   
+   .cidade{
+      color: black;
+      font-size: 20px;
+      font-style: italic;
+      display: flex;
+      position: absolute;
+      right: 1em;
+      margin-top: 34.5em;
+
+      
+   }
+   
+   
+   .container{
+    display: flex;
+    align-items: center;
+    margin-top: 13.1em;
+    
+   }
+   
+   #numero{
+       color: black;
+       margin-left: 50px;
+   }
+   
+   .ctt03{
+     margin-right: 5em;
+   }
+
+
+   .logoface{
+    width: 7.75em;
+    height: 7.75em;
+    
+   }
+
+   .imgcontato1{
+    margin-left: 5.5em;
+   }
+
+   .formu{
+    float: right;
+    text-shadow: 4px 4px 10px;
+    align-items: center;
+    margin-right: 38%;
+    margin-top: 10%;
+    
+    
+
+   }
+
+   .fale{
+    border-radius: 1em;
+   }
+
+   .botao{
+    border-radius: 1em;
+    width: 5em;
+    height: 2em;
+    float: right;
+   }
+
+   .txtform{
+    padding-left: 0.5em;
+    text-shadow: 3px 3px 10px;
+    
+   }
+
+   .logocontatoimg{
+    margin-left: 20em;
+    margin-top: 10em;
+    height: 20em;
+    width: 20em;
+   }
+
